@@ -5,4 +5,20 @@ This project was created as part of an exam on **database planning**. The report
 Additionally, the project includes a set of the most commonly used queries for implementation.
 
 ## Project Structure
+/project
+│
+├── report.pdf # Report in Italian with database analysis and planning
+└── README.md # Project documentation
+
+## Features
+
+- Conceptual database design
+- Logical database design
+- Common queries for implementation
+
+## Technologies Used
+
+- SQL
+- Database design concepts
+- software:  PostgreSQL
 
