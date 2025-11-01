@@ -23,3 +23,6 @@ Additionally, the project includes a set of the most commonly used queries for i
 
 ## Authors:
 Gabriele Mincigrucci, Nicola Davalli, Giulia Vescovi.
+
+## year of the project:
+a.a 2024/2025
