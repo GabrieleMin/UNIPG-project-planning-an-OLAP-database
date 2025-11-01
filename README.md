@@ -5,10 +5,9 @@ This project was created as part of an exam on **database planning**. The report
 Additionally, the project includes a set of the most commonly used queries for implementation.
 
 ## Project Structure
-/project
-│
-├── report.pdf # Report in Italian with database analysis and planning
-└── README.md # Project documentation
+
+- report.pdf : Report in Italian with database analysis and planning
+- README.md
 
 ## Features
 
@@ -22,3 +21,5 @@ Additionally, the project includes a set of the most commonly used queries for i
 - Database design concepts
 - software:  PostgreSQL
 
+## Authors:
+Gabriele Mincigrucci, Nicola Davalli, Giulia Vescovi.
